@@ -48,3 +48,12 @@ body {
 .episode-card a:hover {
   opacity: 0.75;
 }
+.controls {
+  display: flex;
+  gap: 20px;
+}
+
+.controls input,
+.controls select {
+  padding: 10px;
+}
